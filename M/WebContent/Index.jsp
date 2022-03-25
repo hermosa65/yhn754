@@ -10,7 +10,7 @@
 </head>
 <body>
    <script>
-     location.href = 'admin.jsp';
+     location.href = 'Manger.jsp';
    </script>
 </body>
 </html>
